@@ -1,5 +1,31 @@
 {
-  "pokemon": [
-    
+  "packing": [
+    {
+      "title": "Hiking Shoes",
+      "Emoji":"🥾",
+      "checkBox":false,
+      "PriorityLevel": "Medium"
+    },
+
+    {
+      "title": "Binoculars",
+      "Emoji":"🔭",
+      "checkBox":true,
+      "PriorityLevel": "low"
+    },
+
+    {
+      "title": "Sun Hat",
+      "Emoji":"🥵",
+      "checkBox":false,
+      "PriorityLevel": "Medium"
+    },
+
+    {
+      "title": "Airplane Entartainment",
+      "Emoji":"🎮",
+      "checkBox":false,
+      "PriorityLevel": "High"
+    }
   ]
 }
